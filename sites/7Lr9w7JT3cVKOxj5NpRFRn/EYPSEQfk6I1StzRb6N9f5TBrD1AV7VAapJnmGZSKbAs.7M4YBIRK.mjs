@@ -3260,35 +3260,7 @@ var ze = A(F),
                               verticalAlignment: "top",
                               withExternalLayout: !0,
                             }),
-                            e(c, {
-                              __fromCanvasComponent: !0,
-                              children: e(s, {
-                                children: e("p", {
-                                  style: {
-                                    "--font-selector":
-                                      "Q1VTVE9NO1c5NUZBIFJlZ3VsYXI=",
-                                    "--framer-font-family":
-                                      '"W95FA Regular", "W95FA Regular Placeholder", sans-serif',
-                                    "--framer-text-alignment": "left",
-                                  },
-                                  children: e(l, {
-                                    href: { webPageId: "aAGgQCaw8" },
-                                    nodeId: "oktlE_6Fr",
-                                    openInNewTab: !1,
-                                    smoothScroll: !1,
-                                    children: e("a", {
-                                      className: "framer-styles-preset-1491jsp",
-                                      "data-styles-preset": "a4wMR6OXt",
-                                      children: "Play2",
-                                    }),
-                                  }),
-                                }),
-                              }),
-                              className: "framer-1w70ewb",
-                              fonts: ["CUSTOM;W95FA Regular"],
-                              verticalAlignment: "top",
-                              withExternalLayout: !0,
-                            }),
+
                             e(c, {
                               __fromCanvasComponent: !0,
                               children: e(s, {
@@ -3440,36 +3412,7 @@ var ze = A(F),
                               verticalAlignment: "top",
                               withExternalLayout: !0,
                             }),
-                            e(c, {
-                              __fromCanvasComponent: !0,
-                              children: e(s, {
-                                children: e("p", {
-                                  style: {
-                                    "--font-selector":
-                                      "Q1VTVE9NO1c5NUZBIFJlZ3VsYXI=",
-                                    "--framer-font-family":
-                                      '"W95FA Regular", "W95FA Regular Placeholder", sans-serif',
-                                    "--framer-font-size": "22px",
-                                    "--framer-text-alignment": "left",
-                                  },
-                                  children: e(l, {
-                                    href: { webPageId: "iUQfGh2VC" },
-                                    nodeId: "lpHQutJZi",
-                                    openInNewTab: !1,
-                                    smoothScroll: !1,
-                                    children: e("a", {
-                                      className: "framer-styles-preset-1491jsp",
-                                      "data-styles-preset": "a4wMR6OXt",
-                                      children: "Play2",
-                                    }),
-                                  }),
-                                }),
-                              }),
-                              className: "framer-50as6r",
-                              fonts: ["CUSTOM;W95FA Regular"],
-                              verticalAlignment: "top",
-                              withExternalLayout: !0,
-                            }),
+
                             e(c, {
                               __fromCanvasComponent: !0,
                               children: e(s, {
