@@ -1446,7 +1446,8 @@ var Me = "framer-Esaai",
                                             "rgb(255, 255, 255)",
                                         },
                                         children:
-                                          "Everyone that owns hodlcat had to purchase it on the open market just like everyone else.  no exceptions.  dev acquired all tokens at pump.fun launch and burned them all during raydium migration. initial market cap at raydium lp seed was $69k, which means no one could buy tokens early on pump.fun and dump them once migration has finished.  no presale, no team tokens, no dev allocation.",
+                                          "Born in the darkest alleys of the blockchain, HodlCat lives by one simple rule: Grab. Hold. Never Let Go. This cat doesn’t flinch at red candles — it sharpens its claws on them!
+While others panic and sell, HodlCat peacefully naps, dreaming of bull runs and moonshots. It’s not just a meme — it’s a way of life. Ready to join the pride?",
                                       }),
                                     }),
                                   },
@@ -1464,7 +1465,8 @@ var Me = "framer-Esaai",
                                             "rgb(255, 255, 255)",
                                         },
                                         children:
-                                          "Everyone that owns hodlcat had to purchase it on the open market just like everyone else.  no exceptions.  dev acquired all tokens at pump.fun launch and burned them all during raydium migration. initial market cap at raydium lp seed was $69k, which means no one could buy tokens early on pump.fun and dump them once migration has finished.  no presale, no team tokens, no dev allocation.",
+                                          "Born in the darkest alleys of the blockchain, HodlCat lives by one simple rule: Grab. Hold. Never Let Go. This cat doesn’t flinch at red candles — it sharpens its claws on them!
+While others panic and sell, HodlCat peacefully naps, dreaming of bull runs and moonshots. It’s not just a meme — it’s a way of life. Ready to join the pride?",
                                       }),
                                     }),
                                   },
@@ -1484,7 +1486,8 @@ var Me = "framer-Esaai",
                                           "rgb(255, 255, 255)",
                                       },
                                       children:
-                                        "Everyone that owns hodlcat had to purchase it on the open market just like everyone else.  no exceptions.  dev acquired all tokens at pump.fun launch and burned them all during raydium migration. initial market cap at raydium lp seed was $69k, which means no one could buy tokens early on pump.fun and dump them once migration has finished.  no presale, no team tokens, no dev allocation.",
+                                        "Born in the darkest alleys of the blockchain, HodlCat lives by one simple rule: Grab. Hold. Never Let Go. This cat doesn’t flinch at red candles — it sharpens its claws on them!
+While others panic and sell, HodlCat peacefully naps, dreaming of bull runs and moonshots. It’s not just a meme — it’s a way of life. Ready to join the pride?",
                                     }),
                                   }),
                                   className: "framer-1b2jiad",
