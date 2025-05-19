@@ -12648,34 +12648,7 @@ function jw(e, t, n) {
     n
   );
 }
-function Hw(e, t, n) {
-  (n = kr(-1, n)), (n.tag = 3);
-  var r = e.type.getDerivedStateFromError;
-  if (typeof r == "function") {
-    var i = t.value;
-    (n.payload = function () {
-      return r(i);
-    }),
-      (n.callback = function () {
-        Ih(e, t);
-      });
-  }
-  var o = e.stateNode;
-  return (
-    o !== null &&
-      typeof o.componentDidCatch == "function" &&
-      (n.callback = function () {
-        Ih(e, t),
-          typeof r != "function" &&
-            (ti === null ? (ti = new Set([this])) : ti.add(this));
-        var s = t.stack;
-        this.componentDidCatch(t.value, {
-          componentStack: s !== null ? s : "",
-        });
-      }),
-    n
-  );
-}
+
 function Zb(e, t, n) {
   var r = e.pingCache;
   if (r === null) {

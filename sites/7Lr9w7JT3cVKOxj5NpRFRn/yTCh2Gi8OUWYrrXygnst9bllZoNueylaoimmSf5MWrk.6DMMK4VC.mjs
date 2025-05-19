@@ -237,7 +237,7 @@ var ge = "framer-Myach",
                         sizes: "354px",
                         src: "https://framerusercontent.com/images/7tiXdutwHFNmYozsOjwLaO1qf4.png",
                         srcSet:
-                          "https://framerusercontent.com/images/7tiXdutwHFNmYozsOjwLaO1qf4.png 354w",
+                          "./images/7tiXdutwHFNmYozsOjwLaO1qf4.png 354w",
                       },
                     },
                     uW9oKq3ho: {
