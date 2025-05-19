@@ -432,60 +432,7 @@ var Me = "framer-Esaai",
                               withExternalLayout: !0,
                             }),
                           }),
-                          e(a, {
-                            breakpoint: r,
-                            overrides: {
-                              EZJ2Ah9W5: {
-                                children: e(i, {
-                                  children: e("p", {
-                                    style: {
-                                      "--font-selector":
-                                        "Q1VTVE9NO1c5NUZBIFJlZ3VsYXI=",
-                                      "--framer-font-family":
-                                        '"W95FA Regular", "W95FA Regular Placeholder", sans-serif',
-                                      "--framer-text-alignment": "left",
-                                    },
-                                    children: e(n, {
-                                      href: { webPageId: "iUQfGh2VC" },
-                                      nodeId: "qLuVkGBhN",
-                                      openInNewTab: !1,
-                                      smoothScroll: !1,
-                                      children: e("a", {
-                                        className:
-                                          "framer-styles-preset-1491jsp",
-                                        "data-styles-preset": "a4wMR6OXt",
-                                        children: "Play2",
-                                      }),
-                                    }),
-                                  }),
-                                }),
-                              },
-                              HzCHxNot0: {
-                                children: e(i, {
-                                  children: e("p", {
-                                    style: {
-                                      "--font-selector":
-                                        "Q1VTVE9NO1c5NUZBIFJlZ3VsYXI=",
-                                      "--framer-font-family":
-                                        '"W95FA Regular", "W95FA Regular Placeholder", sans-serif',
-                                      "--framer-text-alignment": "left",
-                                    },
-                                    children: e(n, {
-                                      href: { webPageId: "iUQfGh2VC" },
-                                      nodeId: "qLuVkGBhN",
-                                      openInNewTab: !1,
-                                      smoothScroll: !1,
-                                      children: e("a", {
-                                        className:
-                                          "framer-styles-preset-1491jsp",
-                                        "data-styles-preset": "a4wMR6OXt",
-                                        children: "Play2",
-                                      }),
-                                    }),
-                                  }),
-                                }),
-                              },
-                            },
+
 
                           e(a, {
                             breakpoint: r,
@@ -972,50 +919,7 @@ var Me = "framer-Esaai",
                                   name: "16",
                                 }),
                               }),
-                              e(a, {
-                                breakpoint: r,
-                                overrides: {
-                                  EZJ2Ah9W5: {
-                                    background: {
-                                      alt: "",
-                                      fit: "fill",
-                                      intrinsicHeight: 50,
-                                      intrinsicWidth: 50,
-                                      loading: t(1158.0000000000002),
-                                      pixelHeight: 50,
-                                      pixelWidth: 50,
-                                      src: "https://framerusercontent.com/images/xY1ykGfqpcffkavmoAnaEqYG31g.gif",
-                                    },
-                                  },
-                                  HzCHxNot0: {
-                                    background: {
-                                      alt: "",
-                                      fit: "fill",
-                                      intrinsicHeight: 50,
-                                      intrinsicWidth: 50,
-                                      loading: t(224),
-                                      pixelHeight: 50,
-                                      pixelWidth: 50,
-                                      src: "https://framerusercontent.com/images/xY1ykGfqpcffkavmoAnaEqYG31g.gif",
-                                    },
-                                  },
-                                },
-                                children: e(s, {
-                                  background: {
-                                    alt: "",
-                                    fit: "fill",
-                                    intrinsicHeight: 50,
-                                    intrinsicWidth: 50,
-                                    loading: t(615.0000000000002),
-                                    pixelHeight: 50,
-                                    pixelWidth: 50,
-                                    src: "https://framerusercontent.com/images/xY1ykGfqpcffkavmoAnaEqYG31g.gif",
-                                  },
-                                  className: "framer-15z8s8a",
-                                  "data-framer-name": "2",
-                                  name: "2",
-                                }),
-                              }),
+                              
                               e(a, {
                                 breakpoint: r,
                                 overrides: {

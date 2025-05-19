@@ -303,91 +303,7 @@ var re = Q(k),
                               withExternalLayout: !0,
                             }),
                           }),
-                          e(a, {
-                            breakpoint: r,
-                            overrides: {
-                              juHEfs4qV: {
-                                children: e(o, {
-                                  children: e("p", {
-                                    style: {
-                                      "--font-selector":
-                                        "Q1VTVE9NO1c5NUZBIFJlZ3VsYXI=",
-                                      "--framer-font-family":
-                                        '"W95FA Regular", "W95FA Regular Placeholder", sans-serif',
-                                      "--framer-text-color": "rgb(0, 0, 255)",
-                                    },
-                                    children: e(s, {
-                                      href: { webPageId: "aAGgQCaw8" },
-                                      nodeId: "OUf2kBFnf",
-                                      openInNewTab: !1,
-                                      smoothScroll: !1,
-                                      children: e("a", {
-                                        className:
-                                          "framer-styles-preset-1491jsp",
-                                        "data-styles-preset": "a4wMR6OXt",
-                                        children: "Play2",
-                                      }),
-                                    }),
-                                  }),
-                                }),
-                              },
-                              r8tV49FKK: {
-                                children: e(o, {
-                                  children: e("p", {
-                                    style: {
-                                      "--font-selector":
-                                        "Q1VTVE9NO1c5NUZBIFJlZ3VsYXI=",
-                                      "--framer-font-family":
-                                        '"W95FA Regular", "W95FA Regular Placeholder", sans-serif',
-                                      "--framer-text-color": "rgb(0, 0, 255)",
-                                    },
-                                    children: e(s, {
-                                      href: { webPageId: "aAGgQCaw8" },
-                                      nodeId: "OUf2kBFnf",
-                                      openInNewTab: !1,
-                                      smoothScroll: !1,
-                                      children: e("a", {
-                                        className:
-                                          "framer-styles-preset-1491jsp",
-                                        "data-styles-preset": "a4wMR6OXt",
-                                        children: "Play2",
-                                      }),
-                                    }),
-                                  }),
-                                }),
-                              },
-                            },
-                            children: e(c, {
-                              __fromCanvasComponent: !0,
-                              children: e(o, {
-                                children: e("p", {
-                                  style: {
-                                    "--font-selector":
-                                      "Q1VTVE9NO1c5NUZBIFJlZ3VsYXI=",
-                                    "--framer-font-family":
-                                      '"W95FA Regular", "W95FA Regular Placeholder", sans-serif',
-                                    "--framer-font-size": "22px",
-                                    "--framer-text-color": "rgb(0, 0, 255)",
-                                  },
-                                  children: e(s, {
-                                    href: { webPageId: "aAGgQCaw8" },
-                                    nodeId: "OUf2kBFnf",
-                                    openInNewTab: !1,
-                                    smoothScroll: !1,
-                                    children: e("a", {
-                                      className: "framer-styles-preset-1491jsp",
-                                      "data-styles-preset": "a4wMR6OXt",
-                                      children: "Play2",
-                                    }),
-                                  }),
-                                }),
-                              }),
-                              className: "framer-1mipjz",
-                              fonts: ["CUSTOM;W95FA Regular"],
-                              verticalAlignment: "top",
-                              withExternalLayout: !0,
-                            }),
-                          }),
+
                           e(a, {
                             breakpoint: r,
                             overrides: {
@@ -1190,52 +1106,7 @@ var re = Q(k),
                                         name: "1",
                                       }),
                                     }),
-                                    e(a, {
-                                      breakpoint: r,
-                                      overrides: {
-                                        juHEfs4qV: {
-                                          background: {
-                                            alt: "",
-                                            fit: "fill",
-                                            intrinsicHeight: 234.44445065510143,
-                                            intrinsicWidth: 555.5555702727522,
-                                            loading: t(189.00000000000023),
-                                            pixelHeight: 211,
-                                            pixelWidth: 500,
-                                            src: "https://framerusercontent.com/images/NFggO88PZKYooqbQr7boN6mlc.gif",
-                                          },
-                                          transformTemplate: void 0,
-                                        },
-                                        r8tV49FKK: {
-                                          background: {
-                                            alt: "",
-                                            fit: "fill",
-                                            intrinsicHeight: 234.44445065510143,
-                                            intrinsicWidth: 555.5555702727522,
-                                            loading: t(683),
-                                            pixelHeight: 211,
-                                            pixelWidth: 500,
-                                            src: "https://framerusercontent.com/images/NFggO88PZKYooqbQr7boN6mlc.gif",
-                                          },
-                                        },
-                                      },
-                                      children: e(i, {
-                                        background: {
-                                          alt: "",
-                                          fit: "fill",
-                                          intrinsicHeight: 234.44445065510143,
-                                          intrinsicWidth: 555.5555702727522,
-                                          loading: t(891),
-                                          pixelHeight: 211,
-                                          pixelWidth: 500,
-                                          src: "https://framerusercontent.com/images/NFggO88PZKYooqbQr7boN6mlc.gif",
-                                        },
-                                        className: "framer-14lluzc",
-                                        "data-framer-name": "2",
-                                        name: "2",
-                                        transformTemplate: m,
-                                      }),
-                                    }),
+
                                     e(a, {
                                       breakpoint: r,
                                       overrides: {
