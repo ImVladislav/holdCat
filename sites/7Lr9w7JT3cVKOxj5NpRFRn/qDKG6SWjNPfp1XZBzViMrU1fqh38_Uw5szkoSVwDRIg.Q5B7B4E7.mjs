@@ -1921,7 +1921,7 @@ var Se = N(K),
                             ],
                           }),
                           e(s, {
-                            href: "https://x.com/thumbinghard",
+                            href: "https://x.com/hodlcatlife",
                             nodeId: "BUzO1IJ1J",
                             openInNewTab: !0,
                             children: e(i, {

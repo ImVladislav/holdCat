@@ -1706,7 +1706,7 @@ var ge = "framer-Myach",
                                 }),
                               }),
                               e(n, {
-                                href: "https://t.me/+DaKmbVXV6kcxNTU8",
+                                href: "T.me/hodlcatlife",
                                 nodeId: "G9TRFo3Pv",
                                 children: e(i, {
                                   breakpoint: r,
