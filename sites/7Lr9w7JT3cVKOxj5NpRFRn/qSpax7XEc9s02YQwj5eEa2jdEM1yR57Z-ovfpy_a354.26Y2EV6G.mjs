@@ -1240,7 +1240,7 @@ var Me = "framer-Esaai",
                                 }),
                               }),
                               e(n, {
-                                href: "https://dexscreener.com/solana/https://dexscreener.com/solana/6xpkxC44h8XZaZDd1GHumL9gUNWpANgm32PrpaQVpump",
+                                href: "://dexscreener.com/solana/6xpkxC44h8XZaZDd1GHumL9gUNWpANgm32PrpaQVpump",
                                 nodeId: "k1bYmKFnn",
                                 children: e(a, {
                                   breakpoint: r,
