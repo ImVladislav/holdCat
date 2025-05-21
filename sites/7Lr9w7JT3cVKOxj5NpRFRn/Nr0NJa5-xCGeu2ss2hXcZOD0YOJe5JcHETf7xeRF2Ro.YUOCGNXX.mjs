@@ -813,7 +813,7 @@ var te = B(H),
     }
 </style>
 <div id="dexscreener-embed">
-    <iframe src="https://dexscreener.com/solana/6xpkxC44h8XZaZDd1GHumL9gUNWpANgm32PrpaQVpump"></iframe>
+    <iframe src="https://dexscreener.com/solana/B47xX5WgK9vUE6unE7BMDuxwR7fqGuwKh8U14hwvF72Y?embed=1&theme=dark"></iframe>
 </div>
 `,
                                           },
@@ -839,14 +839,14 @@ var te = B(H),
     }
 </style>
 <div id="dexscreener-embed">
-    <iframe src="https://dexscreener.com/solana/6xpkxC44h8XZaZDd1GHumL9gUNWpANgm32PrpaQVpump"></iframe>
+    <iframe src="https://dexscreener.com/solana/B47xX5WgK9vUE6unE7BMDuxwR7fqGuwKh8U14hwvF72Y?embed=1&theme=dark"></iframe>
 </div>
 `,
                                           },
                                         },
                                         children: e(k, {
                                           height: "100%",
-                                          html: '<style>#dexscreener-embed{position:relative;width:100%;padding-bottom:125%;}@media(min-width:1400px){#dexscreener-embed{padding-bottom:65%;}}#dexscreener-embed iframe{position:absolute;width:100%;height:100%;top:0;left:0;border:0;}</style><div id="dexscreener-embed"><iframe src="https://dexscreener.com/solana/6xpkxC44h8XZaZDd1GHumL9gUNWpANgm32PrpaQVpump"></iframe></div>',
+                                          html: '<style>#dexscreener-embed{position:relative;width:100%;padding-bottom:125%;}@media(min-width:1400px){#dexscreener-embed{padding-bottom:65%;}}#dexscreener-embed iframe{position:absolute;width:100%;height:100%;top:0;left:0;border:0;}</style><div id="dexscreener-embed"><iframe src="https://dexscreener.com/solana/B47xX5WgK9vUE6unE7BMDuxwR7fqGuwKh8U14hwvF72Y?embed=1&theme=dark"></iframe></div>',
                                           id: "MJA72vc4a",
                                           layoutId: "MJA72vc4a",
                                           style: {
