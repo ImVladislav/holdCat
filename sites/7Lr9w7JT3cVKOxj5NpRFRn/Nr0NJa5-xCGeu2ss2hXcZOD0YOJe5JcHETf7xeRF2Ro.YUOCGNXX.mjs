@@ -813,7 +813,7 @@ var te = B(H),
     }
 </style>
 <div id="dexscreener-embed">
-    <iframe src="https://dexscreener.com/solana/B47xX5WgK9vUE6unE7BMDuxwR7fqGuwKh8U14hwvF72Y?embed=1&theme=dark"></iframe>
+    <iframe src="https://dexscreener.com/solana/6xpkxC44h8XZaZDd1GHumL9gUNWpANgm32PrpaQVpump?embed=1&theme=dark"></iframe>
 </div>
 `,
                                           },
